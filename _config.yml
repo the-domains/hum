@@ -1,0 +1,14 @@
+layout_spectrum: 0.228369151474908
+typography_spectrum: 0.6187336898874491
+color:
+  brandStrength: 0.7401684431824833
+  lightness: 0.22042166092433035
+  saturation: 0.25377063686028123
+  rhythmicContrast: 0.5142936022020876
+  brandColors:
+    - '#505153'
+    - '#D50006'
+    - '#28282A'
+    - '#000000'
+    - '#550000'
+name: Hum
