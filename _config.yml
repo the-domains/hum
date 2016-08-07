@@ -6,9 +6,9 @@ color:
   saturation: 0.25377063686028123
   rhythmicContrast: 0.5142936022020876
   brandColors:
-    - '#505153'
-    - '#D50006'
-    - '#28282A'
-    - '#000000'
-    - '#550000'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Hum
