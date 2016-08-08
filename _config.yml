@@ -1,4 +1,3 @@
-layout_spectrum: 0.228369151474908
 typography_spectrum: 0.6187336898874491
 color:
   brandStrength: 0.7401684431824833
@@ -11,4 +10,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Hum
+layout_spectrum: 0.228369151474908
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af60516-9ae3-4e67-884b-4bfc35155e74.png
+name: Hum Consulting
+title: 'Bigger, better, brands'
